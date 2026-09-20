@@ -67,4 +67,4 @@ Verified: Svelte diagnostics (zero warnings/errors), production build, four doma
 
 ## License
 
-[MIT](LICENSE) © 2026 Vayne Altapascine
+MIT. See [LICENSE](LICENSE).

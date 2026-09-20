@@ -1,0 +1,16 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+scripts/catalog-raw.json
+
+# Rust / Tauri
+/src-tauri/target/
+/src-tauri/gen/schemas/
+
+# Env / secrets
+.env
+.env.*
+
+# Windows reserved-name artifact
+nul
